@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090414,40:312e81,70:6d28d9,100:1e1b4b&text=Software%20Engineer&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Development%20%C2%B7%20AI%2FML%20%C2%B7%20Product%20Engineering&descAlignY=59&descSize=18&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,35:09090B,70:111827,100:1F2937&text=Software%20Engineer&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Development%20%C2%B7%20AI%2FML%20%C2%B7%20Product%20Engineering&descAlignY=59&descSize=18&animation=fadeIn"
     alt="Software Engineer Header"
   />
 </p>
@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=1000&lines=Building+enterprise-grade+digital+products;Engineering+full-stack+applications+and+internal+platforms;Automating+workflows+with+APIs%2C+ERP+and+cloud+tools;Exploring+applied+AI%2FML+and+intelligent+automation"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=CBD5E1&center=true&vCenter=true&width=1000&lines=Building+enterprise-grade+digital+products;Engineering+full-stack+applications+and+internal+platforms;Automating+workflows+with+APIs%2C+ERP+and+cloud+tools;Exploring+applied+AI%2FML+and+intelligent+automation"
       alt="Typing SVG"
     />
   </a>
@@ -18,25 +18,25 @@
 <p align="center">
   <a href="https://jntuh.ac.in/">
     <img
-      src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6D28D9?style=flat-square&logo=google-scholar&logoColor=white"
+      src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-111827?style=flat-square&logo=google-scholar&logoColor=white"
       alt="B.Tech Computer Science and Engineering"
     />
   </a>
 
   <a href="https://jntuh.ac.in/">
     <img
-      src="https://img.shields.io/badge/JNTUH-Hyderabad-4338CA?style=flat-square&logo=google-scholar&logoColor=white"
+      src="https://img.shields.io/badge/JNTUH-Hyderabad-1F2937?style=flat-square&logo=google-scholar&logoColor=white"
       alt="JNTUH Hyderabad"
     />
   </a>
 
   <img
-    src="https://img.shields.io/badge/Academic%20Score-82%25-7C3AED?style=flat-square&logo=target&logoColor=white"
+    src="https://img.shields.io/badge/Academic%20Score-82%25-374151?style=flat-square&logo=target&logoColor=white"
     alt="Academic Score 82%"
   />
 
   <img
-    src="https://img.shields.io/badge/Location-Saudi%20Arabia-312E81?style=flat-square&logo=google-maps&logoColor=white"
+    src="https://img.shields.io/badge/Location-Saudi%20Arabia-0F172A?style=flat-square&logo=google-maps&logoColor=white"
     alt="Saudi Arabia"
   />
 </p>
@@ -44,21 +44,21 @@
 <p align="center">
   <a href="https://github.com/Razzakowais28?tab=repositories">
     <img
-      src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+      src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfolio"
     />
   </a>
 
   <a href="https://www.linkedin.com/in/razzakowais">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-1F2937?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
 
   <a href="mailto:owaisrak28@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-Let's%20Connect-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-Let's%20Connect-374151?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
@@ -73,20 +73,20 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Razzakowais28&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=Razzakowais28&label=PROFILE%20VIEWS&color=111827&style=flat-square"
     alt="Profile Views"
   />
 
   <a href="https://github.com/Razzakowais28?tab=followers">
     <img
-      src="https://img.shields.io/github/followers/Razzakowais28?label=FOLLOWERS&style=flat-square&color=4338CA&logo=github"
+      src="https://img.shields.io/github/followers/Razzakowais28?label=FOLLOWERS&style=flat-square&color=1F2937&logo=github"
       alt="GitHub Followers"
     />
   </a>
 
   <a href="https://github.com/Razzakowais28?tab=repositories">
     <img
-      src="https://img.shields.io/github/stars/Razzakowais28?affiliations=OWNER&label=TOTAL%20STARS&style=flat-square&color=7C3AED&logo=github"
+      src="https://img.shields.io/github/stars/Razzakowais28?affiliations=OWNER&label=TOTAL%20STARS&style=flat-square&color=374151&logo=github"
       alt="GitHub Stars"
     />
   </a>
@@ -96,13 +96,21 @@
 
 <h2 align="center">About</h2>
 
-Software engineer and full-stack developer with **3+ years of experience** designing web applications, internal portals, workflow automation, ERP dashboards and system integrations.
+<p align="center">
+  Software engineer and full-stack developer with <strong>3+ years of experience</strong> designing web applications, internal portals, workflow automation, ERP dashboards and system integrations.
+</p>
 
-My work sits at the intersection of **software engineering, enterprise applications and product experience**. I convert operational requirements into structured digital products that are maintainable, secure, intuitive and aligned with measurable business outcomes.
+<p align="center">
+  My work sits at the intersection of <strong>software engineering, enterprise applications and product experience</strong>. I convert operational requirements into structured digital products that are maintainable, secure, intuitive and aligned with measurable business outcomes.
+</p>
 
-I build across the complete application lifecycle—from responsive interfaces and reusable components to APIs, databases, authentication, ERP customization, workflow orchestration and technical documentation.
+<p align="center">
+  I build across the complete application lifecycle—from responsive interfaces and reusable components to APIs, databases, authentication, ERP customization, workflow orchestration and technical documentation.
+</p>
 
-I am also expanding my expertise in **AI/ML, computer vision, intelligent automation and data-driven product development**, with a focus on applying emerging technologies to practical enterprise challenges.
+<p align="center">
+  I am also expanding my expertise in <strong>AI/ML, computer vision, intelligent automation and data-driven product development</strong>, with a focus on applying emerging technologies to practical enterprise challenges.
+</p>
 
 <table align="center">
   <tr>
@@ -129,9 +137,11 @@ I am also expanding my expertise in **AI/ML, computer vision, intelligent automa
   </tr>
 </table>
 
-<h3>Open To</h3>
+<h3 align="center">Open To</h3>
 
-`Software Engineering` · `Full-Stack Development` · `Product Engineering` · `AI/ML Engineering` · `Enterprise Application Development` · `Open-Source Collaboration`
+<p align="center">
+  <code>Software Engineering</code> · <code>Full-Stack Development</code> · <code>Product Engineering</code> · <code>AI/ML Engineering</code> · <code>Enterprise Application Development</code> · <code>Open-Source Collaboration</code>
+</p>
 
 ---
 
@@ -167,7 +177,7 @@ I am also expanding my expertise in **AI/ML, computer vision, intelligent automa
   />
 
   <img
-    src="https://img.shields.io/badge/UI%2FUX%20Engineering-6D28D9?style=flat-square&logo=figma&logoColor=white"
+    src="https://img.shields.io/badge/UI%2FUX%20Engineering-111827?style=flat-square&logo=figma&logoColor=white"
     alt="UI UX Engineering"
   />
 
@@ -254,7 +264,7 @@ I am also expanding my expertise in **AI/ML, computer vision, intelligent automa
 <h2 align="center">AI / ML Expertise</h2>
 
 | Domain | Proficiency | Details |
-|:---|:---:|:---|
+|:---:|:---:|:---|
 | **AI Fundamentals** | Certified Foundation | Understanding of AI concepts, machine-learning workflows, responsible AI principles and enterprise AI use cases |
 | **Python for Machine Learning** | Applied | Data preparation, experimentation, scripting and implementation of practical machine-learning concepts |
 | **Computer Vision** | Applied Exposure | Experience with image-processing concepts and CNN-based facial-expression recognition workflows |
@@ -274,7 +284,7 @@ I am also expanding my expertise in **AI/ML, computer vision, intelligent automa
 A centralized enterprise communication platform designed to provide employees with streamlined access to organizational announcements, company updates, events, emergency information, quick links and engagement resources.
 
 | Attribute | Details |
-|:---|:---|
+|:---:|:---|
 | **Stack** | ASP.NET Core, C#, Blazor, HTML, CSS, JavaScript, SQL and Microsoft Graph |
 | **Scale** | Enterprise internal platform supporting multiple departments and employee communication workflows |
 | **Performance** | Structured content delivery, reusable UI components and optimized data-loading patterns |
@@ -296,7 +306,7 @@ The platform was engineered as a practical internal product rather than a static
 An integrated supplier interaction solution connecting external supplier activities with internal procurement workflows, document processes, RFQ visibility and approval tracking.
 
 | Attribute | Details |
-|:---|:---|
+|:---:|:---|
 | **Stack** | JavaScript, NetSuite, SuiteScript, Suitelets, REST APIs, custom records and workflows |
 | **Scale** | Multi-stage processes involving suppliers, buyers, approvers and supporting departments |
 | **Performance** | Reduced manual handoffs through structured data flows and automated workflow transitions |
@@ -318,7 +328,7 @@ The solution transforms fragmented supplier interactions into a structured digit
 A UI-driven ERP analytics dashboard delivering procurement, RFQ, approval and purchase-order insights through dynamic filters, KPI cards, charts and interactive reporting views.
 
 | Attribute | Details |
-|:---|:---|
+|:---:|:---|
 | **Stack** | NetSuite Suitelet, SuiteScript, saved searches, JavaScript, HTML, CSS and APIs |
 | **Scale** | Reporting across procurement transactions, buyers, vendors, purchase orders and projects |
 | **Performance** | Optimized saved-search logic, summarized datasets and responsive client-side filtering |
@@ -340,7 +350,7 @@ The dashboard converts complex ERP transaction data into an accessible visual pr
 A document-automation workflow that generates business-ready PDF files and distributes them through automated email processes using APIs, webhooks and workflow orchestration.
 
 | Attribute | Details |
-|:---|:---|
+|:---:|:---|
 | **Stack** | REST APIs, webhooks, Power Automate, Microsoft 365 and document-generation services |
 | **Scale** | Reusable automation pattern supporting recurring document and notification processes |
 | **Performance** | Event-driven execution, reduced manual processing and standardized document delivery |
@@ -362,7 +372,7 @@ The automation was designed around reliability and maintainability. Clear workfl
 A secure employee self-service platform enabling authorized users to access and download payslip documents without repetitive manual HR support.
 
 | Attribute | Details |
-|:---|:---|
+|:---:|:---|
 | **Stack** | Web application architecture, authentication, APIs, databases and PDF delivery |
 | **Scale** | Employee-facing self-service workflow supporting recurring payroll-document access |
 | **Performance** | Direct document retrieval, streamlined navigation and reduced administrative handoffs |
@@ -381,7 +391,7 @@ The portal applies a product-engineering mindset to a recurring HR process. It b
 <div align="center">
 
 | Recognition | Details |
-|:---|:---|
+|:---:|:---|
 | **Enterprise Digital Enablement** | Delivered internal portals, workflows and applications supporting HR, Finance, Procurement and IT functions |
 | **ERP Analytics Engineering** | Developed interactive procurement dashboards with KPI views, filters, charts and transaction reporting |
 | **Process Automation** | Automated document generation, email delivery, approvals and recurring business workflows |
@@ -432,79 +442,6 @@ The portal applies a product-engineering mindset to a recurring HR process. It b
   />
 </p>
 
----
-
-<h2 align="center">Coding Profiles</h2>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Razzakowais28/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-Problem%20Solving-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"
-      alt="LeetCode"
-    />
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/user/Razzakowais28/">
-    <img
-      src="https://img.shields.io/badge/GeeksforGeeks-Data%20Structures-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"
-      alt="GeeksforGeeks"
-    />
-  </a>
-
-  <a href="https://www.hackerrank.com/profile/Razzakowais28">
-    <img
-      src="https://img.shields.io/badge/HackerRank-Coding%20Practice-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64"
-      alt="HackerRank"
-    />
-  </a>
-
-  <a href="https://www.codechef.com/users/Razzakowais28">
-    <img
-      src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-0D1117?style=for-the-badge&logo=codechef&logoColor=8B6F47"
-      alt="CodeChef"
-    />
-  </a>
-</p>
-
----
-
-<h2 align="center">GitHub Analytics</h2>
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Razzakowais28&theme=tokyonight"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=Razzakowais28&hide_border=true&background=0D1117&stroke=312E81&ring=8B5CF6&fire=A78BFA&currStreakNum=F8FAFC&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=64748B"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Razzakowais28&theme=tokyonight"
-    alt="Languages by Repository"
-  />
-
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Razzakowais28&theme=tokyonight"
-    alt="Languages by Commit"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Razzakowais28&theme=tokyonight"
-    alt="GitHub Profile Details"
-  />
-</p>
 
 ---
 
@@ -612,7 +549,7 @@ open_to:
 
   <a href="https://github.com/Razzakowais28?tab=repositories">
     <img
-      src="https://img.shields.io/badge/Portfolio-Engineering%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+      src="https://img.shields.io/badge/Portfolio-Engineering%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfolio"
     />
   </a>
@@ -627,7 +564,7 @@ open_to:
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:090414,40:312e81,70:6D28D9,100:1E1B4B"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,35:09090B,70:111827,100:1F2937"
     alt="Footer Banner"
   />
 </p>
