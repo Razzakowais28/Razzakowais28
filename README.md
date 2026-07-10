@@ -1,8 +1,8 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,35:09090B,70:111827,100:1F2937&text=Software%20Engineer&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Development%20%C2%B7%20AI%2FML%20%C2%B7%20Product%20Engineering&descAlignY=59&descSize=18&animation=fadeIn"
-    alt="Software Engineer Header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,35:09090B,70:111827,100:1F2937&text=Software%20Developer&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Development%20%C2%B7%20AI%2FML%20%C2%B7%20Product%20Engineering&descAlignY=59&descSize=18&animation=fadeIn"
+    alt="Software Developer Header"
   />
 </p>
 
@@ -15,81 +15,74 @@
   </a>
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://jntuh.ac.in/">
     <img
       src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-111827?style=flat-square&logo=google-scholar&logoColor=white"
       alt="B.Tech Computer Science and Engineering"
     />
   </a>
-
   <a href="https://jntuh.ac.in/">
     <img
-      src="https://img.shields.io/badge/JNTUH-Hyderabad-1F2937?style=flat-square&logo=google-scholar&logoColor=white"
-      alt="JNTUH Hyderabad"
+      src="https://img.shields.io/badge/JNTUH-University-1F2937?style=flat-square&logo=google-scholar&logoColor=white"
+      alt="JNTUH"
     />
   </a>
+</div>
 
-  <img
-    src="https://img.shields.io/badge/Academic%20Score-82%25-374151?style=flat-square&logo=target&logoColor=white"
-    alt="Academic Score 82%"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Location-Saudi%20Arabia-0F172A?style=flat-square&logo=google-maps&logoColor=white"
-    alt="Saudi Arabia"
-  />
-</p>
-
-<p align="center">
+<div align="center">
   <a href="https://github.com/Razzakowais28?tab=repositories">
     <img
       src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfolio"
     />
   </a>
-
   <a href="https://www.linkedin.com/in/razzakowais">
     <img
       src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-1F2937?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-
-  <a href="mailto:owaisrak28@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Let's%20Connect-374151?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
   <a href="https://github.com/Razzakowais28">
     <img
       src="https://img.shields.io/badge/GitHub-@Razzakowais28-111827?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img
     src="https://komarev.com/ghpvc/?username=Razzakowais28&label=PROFILE%20VIEWS&color=111827&style=flat-square"
     alt="Profile Views"
   />
-
   <a href="https://github.com/Razzakowais28?tab=followers">
     <img
       src="https://img.shields.io/github/followers/Razzakowais28?label=FOLLOWERS&style=flat-square&color=1F2937&logo=github"
       alt="GitHub Followers"
     />
   </a>
-
   <a href="https://github.com/Razzakowais28?tab=repositories">
     <img
       src="https://img.shields.io/github/stars/Razzakowais28?affiliations=OWNER&label=TOTAL%20STARS&style=flat-square&color=374151&logo=github"
       alt="GitHub Stars"
     />
   </a>
+</div>
+
+---
+
+<h3 align="center">Contribution Consistency</h3>
+
+<p align="center">
+  <em>Sustained delivery cadence across active repositories and engineering initiatives.</em>
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Razzakowais28/Razzakowais28/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Consistency"
+  />
 </p>
 
 ---
@@ -165,27 +158,25 @@
   />
 </p>
 
-<p align="center">
+<div align="center">
   <img
     src="https://img.shields.io/badge/Responsive%20Design-312E81?style=flat-square&logo=css3&logoColor=white"
     alt="Responsive Design"
   />
-
   <img
     src="https://img.shields.io/badge/Component%20Architecture-4338CA?style=flat-square&logo=react&logoColor=white"
     alt="Component Architecture"
   />
-
+  <br/>
   <img
     src="https://img.shields.io/badge/UI%2FUX%20Engineering-111827?style=flat-square&logo=figma&logoColor=white"
     alt="UI UX Engineering"
   />
-
   <img
     src="https://img.shields.io/badge/Business%20Dashboards-7C3AED?style=flat-square&logo=chartdotjs&logoColor=white"
     alt="Business Dashboards"
   />
-</p>
+</div>
 
 <h3 align="center">Backend & Databases</h3>
 
@@ -196,27 +187,25 @@
   />
 </p>
 
-<p align="center">
+<div align="center">
   <img
     src="https://img.shields.io/badge/REST%20APIs-312E81?style=flat-square&logo=fastapi&logoColor=white"
     alt="REST APIs"
   />
-
   <img
     src="https://img.shields.io/badge/Authentication-4338CA?style=flat-square&logo=auth0&logoColor=white"
     alt="Authentication"
   />
-
+  <br/>
   <img
     src="https://img.shields.io/badge/Data%20Validation-6D28D9?style=flat-square&logo=databricks&logoColor=white"
     alt="Data Validation"
   />
-
   <img
     src="https://img.shields.io/badge/System%20Integration-7C3AED?style=flat-square&logo=icloud&logoColor=white"
     alt="System Integration"
   />
-</p>
+</div>
 
 <h3 align="center">Cloud, DevOps & Tooling</h3>
 
@@ -227,37 +216,33 @@
   />
 </p>
 
-<p align="center">
+<div align="center">
   <img
     src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white"
     alt="Power Automate"
   />
-
   <img
     src="https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white"
     alt="SharePoint"
   />
-
   <img
     src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white"
     alt="Microsoft Teams"
   />
-
+  <br/>
   <img
     src="https://img.shields.io/badge/NetSuite-1F4E79?style=flat-square&logo=oracle&logoColor=white"
     alt="Oracle NetSuite"
   />
-
   <img
     src="https://img.shields.io/badge/SuiteScript-6D28D9?style=flat-square&logo=javascript&logoColor=white"
     alt="SuiteScript"
   />
-
   <img
     src="https://img.shields.io/badge/Workflow%20Automation-4338CA?style=flat-square&logo=n8n&logoColor=white"
     alt="Workflow Automation"
   />
-</p>
+</div>
 
 ---
 
@@ -407,75 +392,41 @@ The portal applies a product-engineering mindset to a recurring HR process. It b
 
 <h3 align="center">Oracle</h3>
 
-<p align="center">
+<div align="center">
   <img
     src="https://img.shields.io/badge/Oracle-AI%20Fundamentals%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"
     alt="Oracle AI Fundamentals Certification"
   />
-</p>
+</div>
 
 <h3 align="center">Google</h3>
 
-<p align="center">
+<div align="center">
   <img
     src="https://img.shields.io/badge/Google-Analytics%20Certification-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"
     alt="Google Analytics Certification"
   />
-
+  <br/>
   <img
     src="https://img.shields.io/badge/Google-Advanced%20Analytics-4338CA?style=for-the-badge&logo=googleanalytics&logoColor=white"
     alt="Advanced Google Analytics"
   />
-</p>
-
-<h3 align="center">Forage & Virtual Experience</h3>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Forage-Software%20Engineering%20Experience-6D28D9?style=for-the-badge&logo=codecademy&logoColor=white"
-    alt="Forage Software Engineering Experience"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Cybersecurity-Engineering%20Virtual%20Internship-312E81?style=for-the-badge&logo=hackthebox&logoColor=white"
-    alt="Cybersecurity Engineering Virtual Internship"
-  />
-</p>
+</div>
 
 
 ---
 
-<h2 align="center">GitHub Trophies</h2>
+<h2 align="center">Development Activity</h2>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=Razzakowais28&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7"
-    alt="GitHub Trophies"
-  />
+  <em>Consistent engineering delivery across product development, automation and platform work.</em>
 </p>
 
----
-
-<h2 align="center">Contribution Activity</h2>
-
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Razzakowais28&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=60A5FA&area=true&area_color=312E81&hide_border=true&custom_title=Engineering%20Contribution%20Activity"
-    alt="Contribution Activity Graph"
-  />
-</p>
-
----
-
-<h2 align="center">Contribution Snake</h2>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/Razzakowais28/Razzakowais28/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake for Razzakowais28"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Razzakowais28&bg_color=0D1117&color=94A3B8&line=64748B&point=CBD5E1&area=true&area_color=1E293B&hide_border=true&custom_title=Contribution%20Overview"
+    alt="Development Activity Graph"
   />
 </p>
 
@@ -513,35 +464,26 @@ open_to:
 
 <h2 align="center">Connect</h2>
 
-<p align="center">
-  <a href="mailto:owaisrak28@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-owaisrak28%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
-
+<div align="center">
   <a href="https://www.linkedin.com/in/razzakowais">
     <img
-      src="https://img.shields.io/badge/LinkedIn-razzakowais-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-
   <a href="https://github.com/Razzakowais28">
     <img
       src="https://img.shields.io/badge/GitHub-Razzakowais28-111827?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
-
   <a href="https://github.com/Razzakowais28?tab=repositories">
     <img
       src="https://img.shields.io/badge/Portfolio-Engineering%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfolio"
     />
   </a>
-</p>
+</div>
 
 ---
 
