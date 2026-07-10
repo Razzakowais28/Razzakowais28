@@ -20,27 +20,27 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/owaisrak28?tab=repositories">
+  <a href="https://github.com/Razzakowais28?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/razzakowais">
     <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:owaisrak28@gmail.com">
+  <a href="mailto:Razzakowais28@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's%20Connect-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/owaisrak28">
-    <img src="https://img.shields.io/badge/GitHub-@owaisrak28-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Razzakowais28">
+    <img src="https://img.shields.io/badge/GitHub-@Razzakowais28-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=owaisrak28&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/owaisrak28?tab=followers">
-    <img src="https://img.shields.io/github/followers/owaisrak28?label=FOLLOWERS&style=flat-square&color=4338CA&logo=github" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Razzakowais28&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/Razzakowais28?tab=followers">
+    <img src="https://img.shields.io/github/followers/Razzakowais28?label=FOLLOWERS&style=flat-square&color=4338CA&logo=github" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/owaisrak28?tab=repositories">
-    <img src="https://img.shields.io/github/stars/owaisrak28?affiliations=OWNER&label=TOTAL%20STARS&style=flat-square&color=7C3AED&logo=github" alt="GitHub Stars" />
+  <a href="https://github.com/Razzakowais28?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Razzakowais28?affiliations=OWNER&label=TOTAL%20STARS&style=flat-square&color=7C3AED&logo=github" alt="GitHub Stars" />
   </a>
 </p>
 
@@ -151,7 +151,7 @@ A centralized enterprise communication platform designed to provide employees wi
 | **Performance** | Structured content delivery, reusable UI components and optimized data-loading patterns |
 | **Security** | Enterprise authentication, controlled internal access and secure user-profile integration |
 | **Impact** | Improved communication visibility, content accessibility and employee engagement |
-| **Repository** | [Explore portfolio repositories](https://github.com/owaisrak28?tab=repositories) |
+| **Repository** | [Explore portfolio repositories](https://github.com/Razzakowais28?tab=repositories) |
 
 The platform was engineered as a practical internal product rather than a static information site. It consolidates frequently accessed services, improves discoverability and provides a consistent digital experience across organizational content.
 
@@ -173,7 +173,7 @@ An integrated supplier interaction solution connecting external supplier activit
 | **Performance** | Reduced manual handoffs through structured data flows and automated workflow transitions |
 | **Security** | Validated submissions, controlled workflow states and role-aware process access |
 | **Impact** | Improved supplier communication, document visibility and procurement-process traceability |
-| **Repository** | [Explore portfolio repositories](https://github.com/owaisrak28?tab=repositories) |
+| **Repository** | [Explore portfolio repositories](https://github.com/Razzakowais28?tab=repositories) |
 
 The solution transforms fragmented supplier interactions into a structured digital journey. It improves transparency across RFQ and approval stages while reducing repetitive administrative coordination.
 
@@ -195,7 +195,7 @@ A UI-driven ERP analytics dashboard delivering procurement, RFQ, approval and pu
 | **Performance** | Optimized saved-search logic, summarized datasets and responsive client-side filtering |
 | **Security** | NetSuite role permissions, controlled record access and validated query parameters |
 | **Impact** | Improved visibility into RFQ lead time, buyer performance, PO status and procurement activity |
-| **Repository** | [Explore portfolio repositories](https://github.com/owaisrak28?tab=repositories) |
+| **Repository** | [Explore portfolio repositories](https://github.com/Razzakowais28?tab=repositories) |
 
 The dashboard converts complex ERP transaction data into a recruiter- and stakeholder-friendly visual product. Its design prioritizes actionable insights, consistent data definitions and efficient navigation.
 
@@ -217,7 +217,7 @@ A document-automation workflow that generates business-ready PDF files and distr
 | **Performance** | Event-driven execution, reduced manual processing and standardized document delivery |
 | **Security** | Controlled connectors, authenticated API calls and restricted business-data handling |
 | **Impact** | Reduced repetitive document work and improved consistency of internal communications |
-| **Repository** | [Explore portfolio repositories](https://github.com/owaisrak28?tab=repositories) |
+| **Repository** | [Explore portfolio repositories](https://github.com/Razzakowais28?tab=repositories) |
 
 The automation was designed around reliability and maintainability. Clear workflow stages, error handling and reusable integration patterns make it adaptable to multiple business use cases.
 
@@ -239,7 +239,7 @@ A secure employee self-service platform that enables authorized users to access 
 | **Performance** | Direct document retrieval, streamlined navigation and reduced administrative handoffs |
 | **Security** | User authentication, access validation and protected employee-document delivery |
 | **Impact** | Reduced HR workload and improved employee accessibility to payroll information |
-| **Repository** | [Explore portfolio repositories](https://github.com/owaisrak28?tab=repositories) |
+| **Repository** | [Explore portfolio repositories](https://github.com/Razzakowais28?tab=repositories) |
 
 The portal applies a product-engineering mindset to a recurring HR process. It balances accessibility with privacy by delivering a simple user experience around securely controlled documents.
 
@@ -349,16 +349,16 @@ Developed responsive web experiences and reusable interface components for stude
 <h2 align="center">Coding Profiles</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/u/owaisrak28/">
+  <a href="https://leetcode.com/u/Razzakowais28/">
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/owaisrak28/">
+  <a href="https://www.geeksforgeeks.org/user/Razzakowais28/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Structures-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" />
   </a>
-  <a href="https://www.hackerrank.com/profile/owaisrak28">
+  <a href="https://www.hackerrank.com/profile/Razzakowais28">
     <img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
   </a>
-  <a href="https://www.codechef.com/users/owaisrak28">
+  <a href="https://www.codechef.com/users/Razzakowais28">
     <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-0D1117?style=for-the-badge&logo=codechef&logoColor=8B6F47" alt="CodeChef" />
   </a>
 </p>
@@ -368,12 +368,12 @@ Developed responsive web experiences and reusable interface components for stude
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=owaisrak28&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" alt="GitHub Statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=owaisrak28&hide_border=true&background=0D1117&stroke=312E81&ring=8B5CF6&fire=A78BFA&currStreakNum=F8FAFC&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Razzakowais28&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" alt="GitHub Statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Razzakowais28&hide_border=true&background=0D1117&stroke=312E81&ring=8B5CF6&fire=A78BFA&currStreakNum=F8FAFC&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaisrak28&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
+  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razzakowais28&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 ---
@@ -381,7 +381,7 @@ Developed responsive web experiences and reusable interface components for stude
 <h2 align="center">GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=owaisrak28&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Razzakowais28&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -389,7 +389,7 @@ Developed responsive web experiences and reusable interface components for stude
 <h2 align="center">Contribution Activity</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=owaisrak28&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=60A5FA&area=true&area_color=312E81&hide_border=true&custom_title=Engineering%20Contribution%20Activity" alt="Contribution Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Razzakowais28&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=60A5FA&area=true&area_color=312E81&hide_border=true&custom_title=Engineering%20Contribution%20Activity" alt="Contribution Activity Graph" />
 </p>
 
 ---
@@ -397,7 +397,7 @@ Developed responsive web experiences and reusable interface components for stude
 <h2 align="center">Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/owaisrak28/owaisrak28/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Razzakowais28/Razzakowais28/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
@@ -435,16 +435,16 @@ open_to:
 <h2 align="center">Connect</h2>
 
 <p align="center">
-  <a href="mailto:owaisrak28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-owaisrak28%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:Razzakowais28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Razzakowais28%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/razzakowais">
     <img src="https://img.shields.io/badge/LinkedIn-razzakowais-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/owaisrak28">
-    <img src="https://img.shields.io/badge/GitHub-owaisrak28-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Razzakowais28">
+    <img src="https://img.shields.io/badge/GitHub-Razzakowais28-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/owaisrak28?tab=repositories">
+  <a href="https://github.com/Razzakowais28?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-Engineering%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
